@@ -23,3 +23,6 @@ Churn analysis is the process of measuring and analyzing the rate at which custo
 * Customers with month-to-month contract
 * Customers subscribed to fiber optic
 * Customers paying high charges
+
+# Power BI Dashboard - 
+![Dashboard](https://github.com/sakshisiri/Churn-Analysis/assets/117391410/257ac389-e9aa-490b-9aa0-f18c265eda0e)
